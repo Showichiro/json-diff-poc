@@ -1,0 +1,11 @@
+{
+  "name": "foo bar",
+  "age": 25,
+  "address": {
+    "city": "Tokyo"
+  },
+  "baz": null,
+  "qux": {
+    "quux": 3
+  }
+}

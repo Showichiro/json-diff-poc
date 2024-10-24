@@ -1,0 +1,9 @@
+{
+  "firstName": "foo",
+  "lastName": "bar",
+  "age": 24,
+  "city": "Tokyo",
+  "baz": {
+    "qux": 2
+  }
+}
